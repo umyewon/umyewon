@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋 </h3>
 
-<h2 align="center"> 🛠️ Full Stack️ 🛠️ </h2>
+<h2 align="center"> 👩🏻‍💻 Full Stack️ 👩🏻‍💻 </h2>
 <h4 align="center"> <i>I've used at least once </i></h4>
 
 <div align="center">
@@ -13,8 +13,9 @@
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/></a>
 </div>
 
+<br><br><br>
 
-<h2 align="center"> Tools </h2>
+<h2 align="center">🛠️ Tools 🛠️</h2>
 <h4 align="center"> <i>I've used at least once </i></h4>
 <div align="center">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/></a>
