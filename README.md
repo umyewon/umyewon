@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C5C5&title_bg=%23FFE3E3&icon=smugmug.svg&icon_color=%23FEFAFA&title=hits&edge_flat=false)](https://github.com/umyewon) 
  
 </div>
- <h1> This is Yewon 👋 </h1>
+ <h2> This is Yewon 👋 </h2>
  <p>I love to experience new things!</p>
  <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef.</p>
  <p>But now I am going to attempt new challenge. Currently, I am studying computer programming with full stack course. </p>
