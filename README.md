@@ -18,12 +18,12 @@
 <a align="left" href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/My Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <a align="left" href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
                                                                                                                                                      
-                                                                                                                                                     <p><b>English</b></p> fluent
+ <p align="right"><b>English</b></p>                                                                                                                                                     
  </div>
                                                                                                                                      
 
  <br>
-</div> 
+
 
 <h2 align="center">📍 Full Stack️ 📍</h2>
 <h4 align="center"> <i>I've used at least once </i></h4>
