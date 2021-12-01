@@ -8,9 +8,9 @@
  </div>
  
  <p>I love to experience new things!</p>
- <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef</p>
- <p>But now I am going to attempt new challenge.</p>
- <p>Currently, I am studying computer programming with full stack course. It was a great choice to study this field and I'm ready to learn more! </p>
+ <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef.</p>
+ <p>But now I am going to attempt new challenge. Currently, I am studying computer programming with full stack course. </p>
+ <p>It was a great choice to study this field and I'm ready to learn more! </p>
 
  <br>
  
