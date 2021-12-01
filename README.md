@@ -13,13 +13,13 @@
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/></a>
 </div>
 
-<hr>
 
 <h2 align="center"> Tools </h2>
 <h4 align="center"> <i>I've used at least once </i></h4>
+<div align="center">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>
-
+</div>
 
 
 <!--
