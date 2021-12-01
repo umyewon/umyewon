@@ -41,15 +41,16 @@
 
  <br>
  
-<div  align="left">
+<div  align="center">
 <h3>🤔 More About Me 🤔</h3>
-<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/My Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-
 <p>💬<b>Korean </b>:  <i>Native</i></p> 
 <p>💬<b>English </b>: <i>Fluent</i></p> 
 <p>💬<b>French </b>: <i>Conversational</i></p> 
-<p>💬<b>German </b>: <i>Beginner</i> </p>                                                          
+<p>💬<b>German </b>: <i>Beginner</i> </p>
+<br>
+<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/My Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+                                                  
 </div>
  
  <br><br>
