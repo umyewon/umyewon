@@ -43,10 +43,10 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VSCode&logoColor=white"/>
 </div>
 
- <h1></h1><br>
+ <h1></h1>
  
 <div align="left">
-<h3>🤔 Real Languages 🤔</h3>
+<h3>🗣️ Real Languages 🌐</h3>
 <p>💬<b>Korean </b>:  <i>Native</i></p> 
 <p>💬<b>English </b>: <i>Fluent</i></p> 
 <p>💬<b>French </b>: <i>Conversational</i></p> 
