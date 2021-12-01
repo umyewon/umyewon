@@ -4,13 +4,15 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C5C5&title_bg=%23FFE3E3&icon=smugmug.svg&icon_color=%23FEFAFA&title=hits&edge_flat=false)](https://github.com/umyewon) 
   
-<h1> Hi it's Yewon Um 👋 </h1>
-
+<h1> This is Yewon 👋 </h1>
+ <p>I studied Culinary Arts and Restaurant Management for 4 years in University.</p>
+ <p>But now I am studying computer programming.</p>
+ <p>It is very interesting filed and I love to learn more!</p>
+ 
  <h4> More About Me </h4>
-<div align="center">
+<div align="left">
 <a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/My Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  
  </div>
 
  <br>
