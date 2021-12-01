@@ -39,9 +39,8 @@
 
  <br>
  
-<div  align="left">
- 
-<h3>🤔 More About Me 🤔</h3>
+<div align="left">
+<h2>🤔 More About Me 🤔</h2>
 <p>💬<b>Korean </b>:  <i>Native</i></p> 
 <p>💬<b>English </b>: <i>Fluent</i></p> 
 <p>💬<b>French </b>: <i>Conversational</i></p> 
