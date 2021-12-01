@@ -5,7 +5,7 @@
 
 <div align="center">
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black"/>
 <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a> <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white"/></a> 
