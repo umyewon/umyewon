@@ -33,8 +33,9 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
 
+ <br><br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula)
 
  
 <!--
