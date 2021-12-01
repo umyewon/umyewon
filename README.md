@@ -5,6 +5,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C5C5&title_bg=%23FFE3E3&icon=smugmug.svg&icon_color=%23FEFAFA&title=hits&edge_flat=false)](https://github.com/umyewon) 
  
 </div>
+
+<div align="left">
  <h2> This is Yewon 👋 </h2>
  <p>I love to experience new things!</p>
  <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef.</p>
@@ -12,9 +14,8 @@
  <p>It was a great choice to study this field and I'm ready to learn more! </p>
  
 <a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/Check Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-
 <a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-                                                                                                                                     
+</div>                                                                                                                                     
  <br>
 
 
