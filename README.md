@@ -14,7 +14,7 @@
  <br>
 
 
-<div align="center">
+<div align="left">
 <h3>📍 Full Stack️ 📍</h3>
 <h4> <i>I've used at least once </i></h4>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -29,11 +29,11 @@
 
 <br>
 
-<div  align="center">
-<h3>🛠️ Cowork Tools 🛠️</h3>
+<div  align="left">
+<h3>🛠️Tools 🛠️</h3>
 <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=gitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VSCode&logoColor=white"/>
 </div>
 
  <h1></h1><br>
