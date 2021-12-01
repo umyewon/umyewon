@@ -30,9 +30,10 @@
 
 <br><br><br>
 
-<h2 align="center">🛠️ Cowork Tools 🛠️</h2>
 
 <div align="center">
+<h2>🛠️ Cowork Tools 🛠️</h2>
+ 
 <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=gitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
