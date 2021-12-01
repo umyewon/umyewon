@@ -8,8 +8,8 @@
  </div>
  
  <p>I studied Culinary Arts and Restaurant Management for 4 years in University.</p>
- <p>But now I am studying computer programming.</p>
- <p>It is very interesting filed and I love to learn more!</p>
+ <p>But now I am studying computer programming with full stack course. It was a good choice to study this field and I'm ready to learn more! </p>
+
  
  <br>
  
