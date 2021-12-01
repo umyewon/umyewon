@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<h3 aligh="center"> 🛠️ Full Stack️ 🛠️ </h3>
+<h3 align="center"> 🛠️ Full Stack️ 🛠️ </h3>
+
 <p align="center"> I've used at least once </p>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=red"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
 
 
 <!--
