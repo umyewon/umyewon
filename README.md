@@ -16,7 +16,7 @@
 
 <div align="left">
 <h3>📍 Full Stack️ 📍</h3>
-<h4> <i>I've used at least once </i></h4>
+<p><i>What I've used at least once</i></p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black"/>
