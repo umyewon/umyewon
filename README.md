@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h3 aligh="center"> 🛠️ Full Stack️ 🛠️ </h3>
+<p align="center"> I've used at least once </p>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=red"/></a>&nbsp 
+
+
 <!--
 **umyewon/umyewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
