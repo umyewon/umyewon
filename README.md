@@ -14,8 +14,8 @@
  <br>
 
 
-<div  align="center">
-<h2>📍 Full Stack️ 📍</h2>
+<div align="center">
+<h3>📍 Full Stack️ 📍</h3>
 <h4> <i>I've used at least once </i></h4>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
@@ -31,16 +31,16 @@
 
 
 <div  align="center">
-<h2>🛠️ Cowork Tools 🛠️</h2>
+<h3>🛠️ Cowork Tools 🛠️</h3>
 <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=gitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
 
- <br>
+ <h1></h1><br>
  
 <div align="left">
-<h2>🤔 More About Me 🤔</h2>
+<h3>🤔 More About Me 🤔</h3>
 <p>💬<b>Korean </b>:  <i>Native</i></p> 
 <p>💬<b>English </b>: <i>Fluent</i></p> 
 <p>💬<b>French </b>: <i>Conversational</i></p> 
