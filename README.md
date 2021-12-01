@@ -48,7 +48,8 @@
 <p>💬<b>Korean </b>:  <i>Native</i></p> 
 <p>💬<b>English </b>: <i>Fluent</i></p> 
 <p>💬<b>French </b>: <i>Conversational</i></p> 
- <p>💬<b>German </b>: <i>Beginner</i> </p>                                              
+ <p>💬<b>German </b>: <i>Beginner</i> </p> 
+ <a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
  
 <h1></h1><br>
