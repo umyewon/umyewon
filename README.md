@@ -4,8 +4,8 @@
 <h4 align="center"> <i>I've used at least once </i></h4>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
