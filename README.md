@@ -11,19 +11,7 @@
  <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef.</p>
  <p>But now I am going to attempt new challenge. Currently, I am studying computer programming with full stack course. </p>
  <p>It was a great choice to study this field and I'm ready to learn more! </p>
-
- <br>
- 
-<div  align="center">
-<h4> More About Me </h4>
-<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/My Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-
-<p>💬<b>Korean</b>:  <i>Native</i> | 💬<b>English</b>: <i>Fluent</i> | 💬<b>French</b>: <i>Conversational</i> | 💬<b>German</b>: <i>Beginner</i> </p>                                                          
-
-</div>
                                                                                                                                      
-
  <br>
 
 
@@ -51,6 +39,17 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
 
+ <br>
+ 
+<div  align="center">
+<h4> More About Me </h4>
+<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/My Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+
+<p>💬<b>Korean </b>:  <i>Native</i> | 💬<b>English </b>: <i>Fluent</i> | 💬<b>French </b>: <i>Conversational</i> | 💬<b>German </b>: <i>Beginner</i> </p>                                                          
+
+</div>
+ 
  <br><br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
