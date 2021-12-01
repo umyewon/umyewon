@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C5C5&title_bg=%23FFE3E3&icon=smugmug.svg&icon_color=%23FEFAFA&title=hits&edge_flat=false)](https://github.com/umyewon) 
   
 <h1> This is Yewon 👋 </h1>
- </div>
+</div>
  
  <p>I love to experience new things!</p>
  <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef.</p>
@@ -15,10 +15,9 @@
  <br>
 
 
-<h2 align="center">📍 Full Stack️ 📍</h2>
-<h4 align="center"> <i>I've used at least once </i></h4>
-
 <div align="center">
+<h2>📍 Full Stack️ 📍</h2>
+<h4> <i>I've used at least once </i></h4>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black"/>
