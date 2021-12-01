@@ -4,7 +4,8 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C5C5&title_bg=%23FFE3E3&icon=smugmug.svg&icon_color=%23FEFAFA&title=hits&edge_flat=false)](https://github.com/umyewon) 
   
-<p> Hi it's Yewon Um 👋 </p>
+<h1> Hi it's Yewon Um 👋 </h1>
+<img src="" />
 
  <br>
 </div> 
@@ -36,6 +37,8 @@
  <br><br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!--
