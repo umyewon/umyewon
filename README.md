@@ -11,12 +11,14 @@
  <p>I love to experience new things!</p>
  <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef.</p>
  <p>But now I am going to attempt new challenge. Currently, I am studying computer programming with full stack course. </p>
- <p>It was a great choice to study this field and I'm ready to learn more! </p><br>
+ <p>It was a great choice to study this field and I'm ready to learn more! </p> <br>
+ <a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/CheckNotion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+ <a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</div>
  
-<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/CheckNotion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</div>                                                                                                                                     
- <br>
+</div>   
+                                                                                                                                         
+<br>
 
 
 <div align="left">
@@ -49,10 +51,6 @@
 <p>💬<b>English </b>: <i>Fluent</i></p> 
 <p>💬<b>French </b>: <i>Conversational</i></p> 
  <p>💬<b>German </b>: <i>Beginner</i> </p> 
- <a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/CheckNotion-000000?style=flat&logo=Notion&logoColor=white"/></a>
- <a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</div>
- 
 <h1></h1><br>
 
 <div>
