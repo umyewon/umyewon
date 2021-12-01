@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center"> 🛠️ Full Stack️ 🛠️ </h3>
+<h2 align="center"> 🛠️ Full Stack️ 🛠️ </h2>
 
-<p align="center"> I've used at least once </p>
+<h4 align="center"> <i>I've used at least once </i></h4>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
