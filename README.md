@@ -3,10 +3,9 @@
  <br>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C5C5&title_bg=%23FFE3E3&icon=smugmug.svg&icon_color=%23FEFAFA&title=hits&edge_flat=false)](https://github.com/umyewon) 
-  
-<h1> This is Yewon 👋 </h1>
-</div>
  
+</div>
+ <h1> This is Yewon 👋 </h1>
  <p>I love to experience new things!</p>
  <p>I studied Culinary Arts and Restaurant Management so I have been worked at Kempinski Hotel in Germany for 6 months as a Chef.</p>
  <p>But now I am going to attempt new challenge. Currently, I am studying computer programming with full stack course. </p>
@@ -33,7 +32,6 @@
 
 <div align="center">
 <h2>🛠️ Cowork Tools 🛠️</h2>
- 
 <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=gitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
@@ -41,15 +39,16 @@
 
  <br>
  
-<div  align="center">
+<div  align="left">
+ 
 <h3>🤔 More About Me 🤔</h3>
 <p>💬<b>Korean </b>:  <i>Native</i></p> 
 <p>💬<b>English </b>: <i>Fluent</i></p> 
 <p>💬<b>French </b>: <i>Conversational</i></p> 
 <p>💬<b>German </b>: <i>Beginner</i> </p>
 <br>
-<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/My Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/Check Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="mailto:"send mail"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
                                                   
 </div>
  
