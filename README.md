@@ -46,7 +46,7 @@
 <p>💬<b>German </b>: <i>Beginner</i> </p>
 <br>
 <a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/Check Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="mailto:"send mail"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/send mail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
                                                   
 </div>
  
