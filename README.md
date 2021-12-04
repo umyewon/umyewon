@@ -32,6 +32,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/>
 </div>
+                                                                                            
+<div align="right">
+                                                                                                                                 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                             
+</div>                                                                                            
 
 <br>
 
@@ -52,12 +57,6 @@
  <p>💬<b>German </b>: <i>Beginner</i> </p> 
 <h1></h1><br>
 
-<div>
-                                                                                                                                 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                                     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula) 
-                                                                                                                                 
-</div>
  
 <!--
 **umyewon/umyewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
