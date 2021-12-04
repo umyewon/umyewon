@@ -38,7 +38,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                             
 </div>                                                                                            
 
-<br>
 
 <div  align="left">
 <h3>🛠️Tools 🛠️</h3>
@@ -46,6 +45,12 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VSCode&logoColor=white"/>
 </div>
+                                                                                            
+ <div align="right">
+                                                                                           
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula) 
+                                                                                                                                 
+</div>                                                                                           
 
  <h1></h1>
  
