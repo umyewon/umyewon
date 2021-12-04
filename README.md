@@ -35,17 +35,16 @@
 </div>
                                                                                             
                                                                                                                                  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      -->               
+           
 <br>
 
 
 <div  align="left">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula" height="165">                  
 <h3>🛠️Tools 🛠️</h3>
 <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=gitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VSCode&logoColor=white"/>
-                                                                                            
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula" height="165">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VSCode&logoColor=white"/>          
 </div>                                                                                     
 
                    
