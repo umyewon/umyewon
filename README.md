@@ -21,6 +21,7 @@
 
 
 <div align="left">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact" height="165">                 
 <h3>📍 Full Stack️ 📍</h3>
 <p><i>What I've used at least once</i></p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -30,9 +31,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/>
-                                                                                            
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact" height="165">
+<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/>  
 </div>
                                                                                             
                                                                                                                                  
