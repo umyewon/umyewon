@@ -21,7 +21,7 @@
 
 
 <div align="left">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact" height="165">                 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact" height="130">                 
 <h3>📍 Full Stack️ 📍</h3>
 <p><i>What I've used at least once</i></p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -40,7 +40,7 @@
 
 
 <div  align="left">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula" height="165">                  
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula" height="145">                  
 <h3>🛠️Tools 🛠️</h3>
 <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=gitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
@@ -49,7 +49,7 @@
 
                    
                    
- <h1></h1>
+<br><br><br> <h1></h1>
  
 <div align="left">
 <h3>🌐 Real Languages 🌐</h3>
