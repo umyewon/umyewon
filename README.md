@@ -49,12 +49,11 @@
                    
 <br><br><br><h1></h1>
             
-## 🌐 Real Languages 🌐                                                                                                  
-> hi <br>       
-> <b>Korean </b>:  <i>Native</i>
-> <b>English </b>: <i>Fluent</i>
-> <b>French </b>: <i>Conversational</i>
-> <b>German </b>: <i>Beginner</i> 
+# 🌐 Real Languages 🌐                                                                                                      
+> <b>Korean </b>:  <i>Native</i> <br>
+> <b>English </b>: <i>Fluent</i> <br>
+> <b>French </b>: <i>Conversational</i> <br>
+> <b>German </b>: <i>Beginner</i>  <br>
 
                  
 <h1></h1><br>
