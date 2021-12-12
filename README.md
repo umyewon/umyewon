@@ -44,7 +44,7 @@
 <h3>🛠️Tools 🛠️</h3>
 <img src="https://img.shields.io/badge/gitHub-181717?style=flat&logo=gitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VSCode&logoColor=white"/>          
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>          
 </div>                                                                                     
 
                    
@@ -74,4 +74,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+아이콘 https://simpleicons.org/
+배지 https://shields.io/                                                                               
+                                                                                  
 -->
