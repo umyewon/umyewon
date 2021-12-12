@@ -51,6 +51,7 @@
  
 <div align="left">
 <h3>🌐 Real Languages 🌐</h3>
+ > <span><b>Korean </b>:  <i>Native</i> </span>         
 > <b>Korean </b>:  <i>Native</i>
 > <b>English </b>: <i>Fluent</i>
 > <b>French </b>: <i>Conversational</i>
