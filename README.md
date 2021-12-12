@@ -48,15 +48,13 @@
                    
                    
 <br><br><br><h1></h1>
-> 이건 인용문이에요.                
-<h3>🌐 Real Languages 🌐</h3>
-> 이건 인용문이에요.
-  >> 이건 인용문 속 인용문이에요.                                                                                                      
->hi <br>       
-><b>Korean </b>:  <i>Native</i>
-><b>English </b>: <i>Fluent</i>
-><b>French </b>: <i>Conversational</i>
-><b>German </b>: <i>Beginner</i> 
+            
+## 🌐 Real Languages 🌐                                                                                                  
+> hi <br>       
+> <b>Korean </b>:  <i>Native</i>
+> <b>English </b>: <i>Fluent</i>
+> <b>French </b>: <i>Conversational</i>
+> <b>German </b>: <i>Beginner</i> 
 
                  
 <h1></h1><br>
