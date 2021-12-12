@@ -54,11 +54,10 @@
 > <b>English </b>: <i>Fluent</i> <br>
 > <b>French </b>: <i>Conversational</i> <br>
 > <b>German </b>: <i>Beginner</i>  <br>
-
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon"><br>
                  
 <h1></h1><br>
 
- <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon"><br>
                                                                                   
                                                                                      
 <!--
