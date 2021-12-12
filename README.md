@@ -51,7 +51,7 @@
  
 <div align="left">
 <h3>🌐 Real Languages 🌐</h3>
-< hi <br>       
+> hi <br>       
 > <b>Korean </b>:  <i>Native</i>
 > <b>English </b>: <i>Fluent</i>
 > <b>French </b>: <i>Conversational</i>
@@ -63,7 +63,7 @@
  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon"><br>
                                                                                   
            
-<yewon                                                                                  
+>yewon                                                                                  
 <!--
 **umyewon/umyewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
