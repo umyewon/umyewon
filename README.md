@@ -51,10 +51,10 @@
  
 <div align="left">
 <h3>🌐 Real Languages 🌐</h3>
-> <b>Korean </b>:  <i>Native</i></p> 
-> <b>English </b>: <i>Fluent</i></p> 
-> <b>French </b>: <i>Conversational</i></p> 
-> <b>German </b>: <i>Beginner</i> </p> 
+> <b>Korean </b>:  <i>Native</i>
+> <b>English </b>: <i>Fluent</i>
+> <b>French </b>: <i>Conversational</i>
+> <b>German </b>: <i>Beginner</i> 
 <h1></h1><br>
 
  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon">
