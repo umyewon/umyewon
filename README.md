@@ -8,7 +8,7 @@
 
 <div align="left">
 <details>
-<summary><h2>👈🏻Press here!</h2></summary>
+ <h2><summary>👈🏻Press here!</summary></h2>
 <div markdown="1">
  <h3> This is Yewon 👋 </h3>
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
@@ -18,9 +18,9 @@
 </details>
  
 <a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/CheckNotion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="mailto:""0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
-                                                                                                                                         
+ <a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>                                                                                                                                        
 <h1></h1>
 
 
