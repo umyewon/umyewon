@@ -50,7 +50,7 @@
 <br><br><br><h1></h1>
                                                                                                       
 <div  align="left">       
-<br><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon" height="155">                
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon" height="155">                
 <h3> 🌐 Real Languages 🌐</h3>                                                                                                      
 <b>Korean </b>:  <i>Native</i> <br>
 <b>English </b>: <i>Fluent</i> <br>
