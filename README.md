@@ -48,13 +48,14 @@
                    
                    
 <br><br><br><h1></h1>
-<div  align="left">                                                                                                     
+                                                                                                      
+<div  align="left">       
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon" height="145"><br>                  
 <h3> 🌐 Real Languages 🌐</h3>                                                                                                      
 <b>Korean </b>:  <i>Native</i> <br>
 <b>English </b>: <i>Fluent</i> <br>
 <b>French </b>: <i>Conversational</i> <br>
 <b>German </b>: <i>Beginner</i>  <br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon"><br>
 </div>                   
 <h1></h1><br>
 
