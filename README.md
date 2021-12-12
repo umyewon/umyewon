@@ -8,7 +8,7 @@
 
 <div align="left">
 <details>
- <summary><h3>👈🏻If you want to know me, press here!</h3></summary>
+ <summary><b>👈🏻If you want to know me, press here!</b></summary>
 <div markdown="1">
  <h3> This is Yewon 👋 </h3>
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
