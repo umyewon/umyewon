@@ -8,7 +8,7 @@
 <br>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YewonUm&fontSize=90)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YewonUm&fontSize=80&fontAlign=80)<br>
 
 <div align="center">
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
