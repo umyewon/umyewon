@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<div align="left">
+<div align="center">
  <h3> This is Yewon 👋 </h3>
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
  <p>🌱 Currently, I am studying computer programming with a full-stack course. </p>
