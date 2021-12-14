@@ -6,7 +6,11 @@
  
 </div>
 <br>
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=엄예원 | Yewon Um&fontSize=90)
+
 <div align="center">
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
  <p>🌱 Currently, I am studying computer programming with a full-stack course. </p>
