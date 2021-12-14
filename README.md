@@ -57,7 +57,7 @@
 <b>French </b>: <i>Conversational</i> <br>
 <b>German </b>: <i>Beginner</i>  <br>
 </div>                   
-<h1></h1><br>
+<br>
 
                                                                                   
                                                                                      
