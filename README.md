@@ -35,7 +35,7 @@
                                                                                             
                                                                                                                                  
            
-<br><br>
+<br>
 
 
 <div  align="left">              
@@ -44,10 +44,8 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>          
 </div>                                                                                     
-
-                   
-                   
-<br><br><br><h1></h1>
+  
+<br><br><h1></h1>
                                                                                                       
 <div  align="left">                   
 <h3> 🌐 Real Languages 🌐</h3>                                                                                                      
@@ -56,7 +54,7 @@
 <b>French </b>: <i>Conversational</i> <br>
 <b>German </b>: <i>Beginner</i>  <br>
 </div>                   
-<br>
+ <h2></h2>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=umyewon&show_icons=true&theme=dracula" height="155">                      
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=umyewon" height="155">    
 
