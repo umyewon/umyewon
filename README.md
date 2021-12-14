@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
- <h2> This is Yewon 👋 </h2>
+ <h2> This is Yewon👋 </h2>
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
  <p>🌱 Currently, I am studying computer programming with a full-stack course. </p>
  <p>❤️ It is a great choice to study this field and I can not wait to learn more! </p> <br>
