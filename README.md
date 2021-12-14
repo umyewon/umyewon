@@ -1,4 +1,7 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YewonUm&fontSize=80&fontAlign=70)<br>
+
+
 <div align="right">
  <br>
  
@@ -6,9 +9,6 @@
  
 </div>
 <br>
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YewonUm&fontSize=80&fontAlign=70)<br>
 
 <div align="center">
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
