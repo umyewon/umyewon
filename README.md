@@ -1,14 +1,12 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YewonUm&fontSize=80&fontAlign=70)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YewonUm&fontSize=80&fontAlign=70&height=100)<br>
 
 
 <div align="right">
- <br>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C5C5&title_bg=%23FFE3E3&icon=smugmug.svg&icon_color=%23FEFAFA&title=visits&edge_flat=false)](https://github.com/umyewon) 
  
 </div>
-<br>
 
 <div align="center">
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
