@@ -13,13 +13,13 @@
  <p>🌱 Currently, I am studying computer programming with a full-stack course. </p>
  <p>❤️ It is a great choice to study this field and I can not wait to learn more! </p> <br>
 </div> 
-<a href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/CheckNotion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>                                                                                                                                 
+<a align="center" href="https://www.notion.so/47700c2d97a64c94b8fff3438bf21fb7?v=3670e71fa1ec42eaa9776ce12e7bc8ea"><img src="https://img.shields.io/badge/CheckNotion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a align="center" href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>                                                                                                                                 
 <h1></h1>
 
 
 <div align="left">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact" height="150">                 
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact" height="150"> -->                
 <h3>📍 Full Stack️ 📍</h3>
 <p><i>What I've used at least once</i></p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
