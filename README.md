@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Yewon%20Um&fontSize=80&fontAlign=70)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yewon%20Um&fontSize=80&fontAlign=70)<br>
 
 
 <div align="right">
