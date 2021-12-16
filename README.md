@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=YewonUm&fontSize=80&fontAlign=70&height=100)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fcea90,100:fad414&height=300&section=header&text=Yewon%20Um&fontColor=d5e1f0&fontSize=80&fontAlign=70&height=100)<br>
 
 
 <div align="right">
