@@ -10,9 +10,8 @@
 
 <div align="center">
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I worked in Germany as a Chef.</p>
- <p>🌱 Currently, I am studying computer programming with a full-stack course. </p>
- <p>❤️ It is a great choice to study this field and I can not wait to learn more! </p> <br>
- <a align="center" href="https://umyewon.notion.site/47700c2d97a64c94b8fff3438bf21fb7?v=5406f3777d3f4418ba14fbc11b643b45"><img src="https://img.shields.io/badge/CheckNotion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+ <p>🌱 Since 2021, I am studying computer programming with a full-stack course.</p><br>
+ <p>    Now, I am a Junior back-end developer in the financial world.</p>
 <a align="center" href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>     
 </div> 
                                                                                                                             
@@ -20,13 +19,11 @@
 
 <div align="left">
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=umyewon&layout=compact" height="150"> -->                
-<h3>📍 Full Stack️ 📍</h3>
+<h3>📍 Stack️ 📍</h3>
 <p><i>What I've used at least once</i></p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white"/>  
 </div>
