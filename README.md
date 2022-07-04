@@ -8,12 +8,12 @@
  
 </div>
 
-/*<div align="center">
+<!--<div align="center">
  <p>🧑🏻‍🍳 I studied Culinary Arts and Restaurant Management so I was a Chef in Germany.</p>
  <p>🌱 Since 2021, I am studying computer programming with a full-stack course.</p><br>
  <p>    Now, I am a Junior back-end developer in the financial world.</p>
 <a align="center" href="mailto:"0816yw@gmail.com"><img src="https://img.shields.io/badge/0816yw@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>     
-</div> */
+</div> -->
                                                                                                                             
 <h1></h1>
 
